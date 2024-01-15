@@ -28,7 +28,7 @@ BaseProtocol.HTTP_ADAPTER_CLS = NoVerifyHTTPAdapter
 # OWA credential & server details
 username = 'domain\\username'
 password = 'Passw0rd123'
-server = '10.10.110.254'  
+server = '10.10.110.1'  
 
 # Set up credentials & account
 print("[*] Configuring creds and account for " + username + "...")
