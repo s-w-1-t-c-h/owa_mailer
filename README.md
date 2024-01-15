@@ -1,4 +1,4 @@
-# OWA Mailer
+# Microsoft Exchange OWA Mailer
 Simple mailer script in python3 to send basic emails via hosted Microsoft Exchange OWA. Not for ops but good enough for CTFs, HTB, etc...
 
 # Requirements
